@@ -1,6 +1,7 @@
 # CelestialSpotify
 
-Problem Statement
+**Problem Statement**
+
 To Design a celestial-themed user interface for a music streaming platform that replicates the features and functionality of Spotify.
 
  
